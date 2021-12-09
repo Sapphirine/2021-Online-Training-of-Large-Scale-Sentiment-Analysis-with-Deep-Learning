@@ -11,6 +11,9 @@ Python3 should be installed. Besides, the following packages are in need.
 
 ## Usage
 
+First unzip the `imdb.zip` into `imdb` directory to get the data.
+It is zipped because the data file is larger than 100MB.
+
 Run `rnn.py` as following to reproduce the results in the report.
 
 ```
